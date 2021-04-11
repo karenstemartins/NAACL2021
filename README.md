@@ -1,4 +1,4 @@
-# NAACL2021
+# NAACL 2021
 
 This repository contains all the data and code to reproduce the experiments from the "Why Do Document-Level Polarity Classifiers Fail?" paper published in NAACL 2021.
 
